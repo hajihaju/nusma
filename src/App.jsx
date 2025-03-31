@@ -10,7 +10,7 @@ import Programs from "./components/Programs/Programs";
 import Testimonials from "./components/Testimonials/Testimonials";
 import Title from "./components/Title/Title";
 import VideoPlayer from "./components/Videoplayer/Videoplayer";
-import NotesPage from "./pages/NotesPage"; // Import the Notes Page
+import NotesPage from "./Pages/NotesPage"; // Import the Notes Page
 import Tutorials from "./Pages/Tutorials/Tutorials"; 
 
 
