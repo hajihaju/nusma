@@ -1,7 +1,7 @@
-import "./VideoPlayer.css"
+import "./Videoplayer.css"
 import video from "../../assets/college2.mp4"
 import { useRef } from "react"
-const VideoPlayer = ({playerState,setPlayerState}) => {
+const Videoplayer = ({playerState,setPlayerState}) => {
     const player = useRef(null)
 
     const closePlayer = (e) => {
@@ -16,4 +16,4 @@ const VideoPlayer = ({playerState,setPlayerState}) => {
   )
 }
 
-export default VideoPlayer
+export default Videoplayer
